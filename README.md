@@ -1,4 +1,4 @@
-# uni-one
+# uni-template-one
 
 > 使用uni-app开发的 [「ONE · 一个」](http://wufazhuce.com)  
 > 移植自[mpvue-one](https://github.com/feng-fu/mpvue-one/blob/master/README.md)  
