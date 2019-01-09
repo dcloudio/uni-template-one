@@ -4,6 +4,10 @@
 > 移植自[mpvue-one](https://github.com/feng-fu/mpvue-one/blob/master/README.md)  
 > 本项目仅作为mpvue项目移植示例  
 
+## 预览
+
+![预览](https://img-cdn-qiniu.dcloud.net.cn/img/img.jpg)
+
 ## 使用方式
 将项目拖入[HbuilderX](http://www.dcloud.io/hbuilderx.html),直接运行即可
 
